@@ -1,5 +1,3 @@
-Aşağıda, projenizi GitHub'da paylaşıp çalıştırabileceğiniz temel bir README dosyasını bulabilirsiniz:
-
 # Loan API Backend
 This project is a Spring Boot-based backend API for managing loans, customers, and loan installments. It allows creating loans, listing loans, managing loan installments, and making payments.
 
@@ -56,20 +54,4 @@ Example Response:
   "createDate": "2025-01-17T00:00:00Z",
   "isPaid": false
 }
-Contributing
-If you'd like to contribute, feel free to fork the repository and submit pull requests. You can also open issues for any bugs or feature requests.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### 5. **GitHub'a Yükleme Adımları**
-1. GitHub'da yeni bir repository oluşturun.
-2. Repository URL'sini kopyalayın.
-3. Projenizin kök dizininde aşağıdaki komutları çalıştırın:
-
-git init
-git remote add origin <repository-url>
-git add .
-git commit -m "Initial commit"
-git push -u origin master
-Bu adımları takip ederek projenizi GitHub'a yükleyebilirsiniz.
